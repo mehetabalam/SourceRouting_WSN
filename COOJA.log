@@ -1,0 +1,22 @@
+[14:04:57 - AWT-EventQueue-0] [Cooja.java:2855] [INFO] - External tools default settings: /external_tools_linux.config
+[14:04:57 - AWT-EventQueue-0] [Cooja.java:2885] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[14:05:05 - Thread-0] [Simulation.java:421] [INFO] - Simulation random seed: 123456
+[14:05:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:07 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:08 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:09 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:09 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:09 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /media/sf_WSN/Lab/FInal/SourceRouting/build/telosb/main.exe
+[14:05:09 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[14:05:10 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:05:17 - Thread-1] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1503921917646
+[14:15:46 - Thread-1] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1503922546426	Duration: 628780 ms	Simulated time 536126 ms	Ratio 0.852644804224053

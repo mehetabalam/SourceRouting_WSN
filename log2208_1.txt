@@ -1,0 +1,142 @@
+00:07.798	ID:1	Parent of 6: 1
+00:08.063	ID:1	Parent of 21: 1
+00:10.151	ID:1	Parent of 7: 1
+00:11.203	ID:1	Parent of 29: 1
+00:11.991	ID:1	Parent of 11: 1
+00:13.037	ID:1	Parent of 3: 29
+00:14.342	ID:1	Parent of 10: 29
+00:16.940	ID:1	Parent of 23: 1
+00:17.722	ID:1	Parent of 18: 29
+00:17.727	ID:1	Parent of 24: 29
+00:22.140	ID:1	Parent of 13: 10
+00:23.448	ID:1	Parent of 30: 13
+00:23.727	ID:1	Parent of 12: 13
+00:25.798	ID:1	Parent of 4: 18
+00:26.594	ID:1	Parent of 17: 23
+00:28.176	ID:1	Parent of 20: 13
+00:30.513	ID:1	Parent of 16: 20
+00:30.518	ID:1	Parent of 5: 4
+00:31.049	ID:1	Parent of 22: 30
+00:31.323	ID:1	Parent of 26: 13
+00:31.853	ID:1	Parent of 2: 13
+00:32.647	ID:1	Parent of 28: 12
+00:32.653	ID:1	Parent of 28: 12
+00:35.520	ID:1	Parent of 25: 28
+00:35.793	ID:1	Parent of 19: 20
+00:35.802	ID:1	Parent of 8: 4
+00:37.649	ID:1	Parent of 27: 25
+00:38.184	ID:1	Parent of 14: 15
+01:04.952	ID:22	app:Send to sink seqn 1
+01:05.123	ID:30	app:Recv from 22 seqn 1
+01:05.335	ID:13	app:Recv from 22 seqn 1
+01:05.435	ID:10	app:Recv from 22 seqn 1
+01:05.623	ID:29	app:Recv from 22 seqn 1
+01:05.630	ID:1	app:Recv from 22 seqn 1
+01:06.099	ID:13	app:Send to sink seqn 1
+01:06.150	ID:10	app:Recv from 13 seqn 1
+01:06.158	ID:29	app:Recv from 13 seqn 1
+01:06.165	ID:1	app:Recv from 13 seqn 1
+01:06.645	ID:14	app:Send to sink seqn 1
+01:06.713	ID:25	app:Send to sink seqn 1
+01:06.836	ID:28	app:Recv from 25 seqn 1
+01:06.892	ID:15	app:Recv from 14 seqn 1
+01:06.898	ID:12	app:Recv from 25 seqn 1
+01:06.933	ID:13	app:Recv from 25 seqn 1
+01:06.940	ID:10	app:Recv from 25 seqn 1
+01:06.947	ID:29	app:Recv from 25 seqn 1
+01:06.954	ID:1	app:Recv from 25 seqn 1
+01:07.143	ID:4	app:Recv from 14 seqn 1
+01:07.249	ID:18	app:Send to sink seqn 1
+01:07.259	ID:18	app:Recv from 14 seqn 1
+01:07.480	ID:29	app:Recv from 18 seqn 1
+01:07.487	ID:29	app:Recv from 14 seqn 1
+01:07.489	ID:1	app:Recv from 18 seqn 1
+01:07.568	ID:3	app:Send to sink seqn 1
+01:07.578	ID:29	app:Recv from 3 seqn 1
+01:07.748	ID:1	app:Recv from 14 seqn 1
+01:07.754	ID:1	app:Recv from 3 seqn 1
+01:07.996	ID:20	app:Send to sink seqn 1
+01:08.242	ID:13	app:Recv from 20 seqn 1
+01:08.250	ID:10	app:Recv from 20 seqn 1
+01:08.281	ID:29	app:Recv from 20 seqn 1
+01:08.288	ID:1	app:Recv from 20 seqn 1
+01:08.339	ID:28	app:Send to sink seqn 1
+01:08.492	ID:12	app:Recv from 28 seqn 1
+01:08.517	ID:13	app:Recv from 28 seqn 1
+01:08.547	ID:10	app:Recv from 28 seqn 1
+01:08.555	ID:29	app:Recv from 28 seqn 1
+01:08.562	ID:1	app:Recv from 28 seqn 1
+01:10.692	ID:29	app:Send to sink seqn 1
+01:10.901	ID:1	app:Recv from 29 seqn 1
+01:11.318	ID:4	app:Send to sink seqn 1
+01:11.390	ID:18	app:Recv from 4 seqn 1
+01:11.427	ID:29	app:Recv from 4 seqn 1
+01:11.434	ID:1	app:Recv from 4 seqn 1
+01:11.938	ID:30	app:Send to sink seqn 1
+01:12.178	ID:13	app:Recv from 30 seqn 1
+01:12.185	ID:10	app:Recv from 30 seqn 1
+01:12.219	ID:29	app:Recv from 30 seqn 1
+01:12.227	ID:1	app:Recv from 30 seqn 1
+01:15.612	ID:6	app:Send to sink seqn 1
+01:15.859	ID:1	app:Recv from 6 seqn 1
+01:16.960	ID:24	app:Send to sink seqn 1
+01:17.159	ID:29	app:Recv from 24 seqn 1
+01:17.166	ID:1	app:Recv from 24 seqn 1
+01:17.630	ID:11	app:Send to sink seqn 1
+01:17.690	ID:1	app:Recv from 11 seqn 1
+01:17.878	ID:5	app:Send to sink seqn 1
+01:18.124	ID:4	app:Recv from 5 seqn 1
+01:18.162	ID:18	app:Recv from 5 seqn 1
+01:18.217	ID:29	app:Recv from 5 seqn 1
+01:18.223	ID:1	app:Recv from 5 seqn 1
+01:20.031	ID:15	app:Send to sink seqn 1
+01:20.239	ID:4	app:Recv from 15 seqn 1
+01:20.295	ID:18	app:Recv from 15 seqn 1
+01:20.302	ID:29	app:Recv from 15 seqn 1
+01:20.308	ID:1	app:Recv from 15 seqn 1
+01:21.884	ID:19	app:Send to sink seqn 1
+01:21.968	ID:20	app:Recv from 19 seqn 1
+01:22.027	ID:13	app:Recv from 19 seqn 1
+01:22.067	ID:10	app:Recv from 19 seqn 1
+01:22.127	ID:29	app:Recv from 19 seqn 1
+01:22.133	ID:1	app:Recv from 19 seqn 1
+01:26.516	ID:7	app:Send to sink seqn 1
+01:26.540	ID:1	app:Recv from 7 seqn 1
+01:28.797	ID:12	app:Send to sink seqn 1
+01:28.806	ID:13	app:Recv from 12 seqn 1
+01:28.862	ID:10	app:Recv from 12 seqn 1
+01:28.878	ID:29	app:Recv from 12 seqn 1
+01:28.885	ID:1	app:Recv from 12 seqn 1
+01:29.071	ID:27	app:Send to sink seqn 1
+01:29.100	ID:25	app:Recv from 27 seqn 1
+01:29.201	ID:28	app:Recv from 27 seqn 1
+01:29.331	ID:12	app:Recv from 27 seqn 1
+01:29.389	ID:13	app:Recv from 27 seqn 1
+01:29.405	ID:10	app:Recv from 27 seqn 1
+01:29.413	ID:29	app:Recv from 27 seqn 1
+01:29.421	ID:1	app:Recv from 27 seqn 1
+01:30.493	ID:2	app:Send to sink seqn 1
+01:30.706	ID:13	app:Recv from 2 seqn 1
+01:30.714	ID:10	app:Recv from 2 seqn 1
+01:30.722	ID:29	app:Recv from 2 seqn 1
+01:30.729	ID:1	app:Recv from 2 seqn 1
+01:31.770	ID:10	app:Send to sink seqn 1
+01:32.030	ID:29	app:Recv from 10 seqn 1
+01:32.037	ID:1	app:Recv from 10 seqn 1
+01:37.038	ID:8	app:Send to sink seqn 1
+01:37.126	ID:4	app:Recv from 8 seqn 1
+01:37.132	ID:18	app:Recv from 8 seqn 1
+01:37.219	ID:29	app:Recv from 8 seqn 1
+01:37.226	ID:1	app:Recv from 8 seqn 1
+01:41.008	ID:9	app:Send to sink seqn 1
+01:41.169	ID:5	app:Recv from 9 seqn 1
+01:41.281	ID:4	app:Recv from 9 seqn 1
+01:41.368	ID:18	app:Recv from 9 seqn 1
+01:41.374	ID:29	app:Recv from 9 seqn 1
+01:41.381	ID:1	app:Recv from 9 seqn 1
+01:46.299	ID:16	app:Send to sink seqn 1
+01:46.367	ID:20	app:Recv from 16 seqn 1
+01:46.510	ID:13	app:Recv from 16 seqn 1
+01:46.532	ID:10	app:Recv from 16 seqn 1
+01:46.567	ID:29	app:Recv from 16 seqn 1
+01:46.574	ID:1	app:Recv from 16 seqn 1
