@@ -1,0 +1,2 @@
+# SourceRouting_WSN
+This project was carried out as a part of the course Wireless Sensor Network at UNITN, Trento. The aim of this project work is to implement a multi-hop Source Routing protocol for a wireless sensor network. The deliverable of the project is a routing layer (a nesC component) that supports two traffic patterns: many-to-one, allowing network nodes to send data packets up to the sink (root) and one-to-many, which is the exact opposite.
